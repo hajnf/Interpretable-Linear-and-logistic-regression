@@ -4,9 +4,3 @@ L’objectif n’est pas la prédiction (telle qu'on la pratique communément en
 Explanatory analysis  using linear and logistic regression, from an inferential statistics and econometrics perspective, to explain phenomena related to computer gaming habits.
 The goal is not prediction (as commonly practiced in machine learning), but rather the structural analysis of factors influencing playtime and the likelihood of purchasing a new game version, based on synthetic data. Although predictive analysis, characteristic of machine learning, is not the primary objective, the interpretation of coefficients and relationships identified through this inferential approach can be used for the global and local interpretation of the performance of a linear and logistic regression prediction algorithm, within the machine learning framework.
 
-
-
-Posez une question
-
-
-
